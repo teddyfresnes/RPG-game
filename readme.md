@@ -22,6 +22,7 @@ Achat magasin, affichage du sac et équipement :
 ![image](https://github.com/teddyfresnes/LP_rpg/assets/80900011/c1150e69-6401-4dd2-90cb-3cd4d5240b2f)  
 Système de combat et montée de niveau :  
 ![image](https://github.com/teddyfresnes/LP_rpg/assets/80900011/158306a7-dd61-413e-b955-1ae59c29f143)  
+![image](https://github.com/teddyfresnes/LP_rpg/assets/80900011/aa29be1f-326c-4c3f-9372-620483678632)  
 Changement de map lorsque le joueur va sur le prochain niveau :  
 ![image](https://github.com/teddyfresnes/LP_rpg/assets/80900011/de7d93f0-a7e8-4ee3-a68c-55ca47fd8617)  
 Accès au niveau final avec un boss à battre pour finir le jeu :  
