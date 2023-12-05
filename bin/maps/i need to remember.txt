@@ -1,0 +1,3 @@
+0 empty case
+1 wall
+2 spawn
