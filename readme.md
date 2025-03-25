@@ -1,4 +1,4 @@
-# LP_rpg 
+# RPG_game
 ### Description
 Projet de création d'un jeu RPG en java, amélioration du projet rpg en console Eclipse avec :  
 - Création de l'IHM complétant toutes les possibilités du mode console
